@@ -19,13 +19,14 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- ⚡ Quick bio: "A kind of metalHead-melomaniac-a great reader of books of classical literature -Poet-traveler-foodLover-gamer-coder-programmer-catLover-			sportsAficionado hybrid",
+		"- 🔭 I’m currently working on":"In Csharp but i need upgrade my skills"
+		"- 🌱 I’m currently learning":"Python, AWS , C , Azure, JavaScript (Tech stack from my company) --- Sharpening my Back-End Skills
+		(Personal goal)",
 		"- 👯 I’m looking to collaborate on": "C#, Java and PHP related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, JavaScript, Java, SQL, SQL, Programmer Junior in Brazil",
-		"- 📫 How to reach me:":              "https://github.com/Bini19#you-can-reach-me-at-alien",
+		"- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about": "Python, JavaScript, Java, SQL, SQL, Developer Junior in Brazil",
+		"- 📫 How to reach me:":"https://github.com/Bini19#you-can-reach-me-at-alien",
 	}
 }
 ```
@@ -58,3 +59,5 @@ func GetBio() Bio {
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bini19&show_icons=true&theme=synthwave" alt="Bini19 :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
