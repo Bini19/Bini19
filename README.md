@@ -64,7 +64,3 @@
     &nbsp;&nbsp;
   </a>
 </p>
-  
-<p align="center">
-  <img src="https://piras.com.br/wp-content/uploads/2014/02/fim-de-semana.gif" alt="Rotina de Desenvolvedor" height="300" width="850">
-</p>
