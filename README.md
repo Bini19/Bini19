@@ -3,4 +3,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bini19&show_icons=true&locale=en&layout=compact" alt="bini19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bini19&show_icons=true&locale=en" alt="bini19" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bini19&show_icons=true&locale=en" alt="bini19" /></p>
